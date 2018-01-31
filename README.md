@@ -6,3 +6,6 @@ https://juejin.im/post/5a69ece0f265da3e5a5777ed
 
 2.vue-router知识点详解
 https://juejin.im/entry/5a6ac50a51882573443ce7de
+
+3.原创《vue2.0进阶系列》教程目录大全 
+https://mp.weixin.qq.com/s/sLAUSzP8GrQHELVULLpD_g
