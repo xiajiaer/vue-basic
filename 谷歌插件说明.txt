@@ -1,0 +1,12 @@
+谷歌实用插件
+
+    1. 全能二维码
+        直接点击能把当前页面地址生成二维码，方便手机调试。同时也能把图片、文本等生成二维码
+    2. JavaScript and CSS Code Beautifier
+        当访问 JS 或 CSS 源码的时候能直接格式化代码并着色，并有多种配色方案可选
+    3. HTML5存储管理器多合一
+        咱们经常存的 sessionStorage、localStorage、cookie等，直接能在里面进行增删改查，很方便
+    4. Json Viewer
+        JSON 格式格式化
+    5. FE助手
+        前端工具集合，里面很多实用工具，比如大家常用的时间戳转换，正则、取色等，还包括ajax调试，大家可以自行研究
