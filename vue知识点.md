@@ -9,3 +9,6 @@ https://juejin.im/entry/5a6ac50a51882573443ce7de
 
 3.原创《vue2.0进阶系列》教程目录大全 
 https://mp.weixin.qq.com/s/sLAUSzP8GrQHELVULLpD_g
+
+3.聊聊我对现代前端框架的认知
+https://github.com/berwin/Blog/issues/20
